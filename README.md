@@ -1,8 +1,6 @@
-# React + Vite
+# REACT USESTATE MAP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aqui usamos un archivo para cargar todas las imagenes y estas son utilizadas en DataSucursales que tiene toda la informacion que luego se mapea en el archivo Sucursales.jsx que es el que se lleva a App.jsx
+![image](https://github.com/verobaires/react-useState-map/assets/34665102/d2914257-6fd9-4355-a3dd-b77ce80cf4ec)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+(recuerden que falta trabajar en el boton para que aplique en cada local en particular)
